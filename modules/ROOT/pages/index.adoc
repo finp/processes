@@ -1,0 +1,17 @@
+= AeroGear Processes
+
+image::aerogear_logo_200px.png[]
+
+This documentation covers the AeroGear processes relating to:
+
+* User Feedback
+* Code Contributions
+* Community 
+* Documentation Contributions
+
+It aims to answer questions such as:
+
+* How do decisions get made around here?
+* When I engage with the community (bug report, question, pull request, roadmap suggestion), how do I do it without annoying anyone? What should my expectations be?
+* If I don't hear back, what's the polite way to raise my question again?
+* How do I contribut to AeroGear?
