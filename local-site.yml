@@ -1,0 +1,21 @@
+site:
+  title: AeroGear
+  url: https://www.aerogear.org
+  start_page: processes::index
+content:
+  sources:
+  - url: .
+    branches: AEROGEAR-2480
+asciidoc:
+  attributes:
+    experimental: ''
+    idprefix: ''
+    idseparator: '-'
+    linkattrs: ''
+    mobile-next: 'AeroGear Mobile Services'
+    mobile-client: 'mobile client '
+ui:
+  bundle:
+    url: https://github.com/finp/antora-ui/raw/master/build/ui-bundle.zip
+    snapshot: true
+

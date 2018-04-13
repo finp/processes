@@ -1,0 +1,10 @@
+name: processes
+title: AeroGear Processes
+version: 'latest'
+start_ROOT: ROOT:index.adoc
+nav:
+- modules/ROOT/nav.adoc
+- modules/community/nav.adoc
+- modules/code/nav.adoc
+- modules/docs/nav.adoc
+
