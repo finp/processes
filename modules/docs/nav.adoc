@@ -1,2 +1,5 @@
-* xref:index.adoc[Working with AeroGear Docs]
+* xref:index.adoc[Introduction to AeroGear Docs]
+** xref:antora.adoc[Using Antora to convert asciidoc to html]
+** xref:mobile-docs.adoc[Using Antora to create the docs.aerogear.org site]
+
 
