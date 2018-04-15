@@ -1,6 +1,6 @@
 name: processes
 title: AeroGear Processes
-version: 'v0.0.1'
+version: 'latest'
 start_ROOT: ROOT:index.adoc
 nav:
 - modules/ROOT/nav.adoc
