@@ -5,7 +5,7 @@ site:
 content:
   sources:
   - url: .
-    branches: AEROGEAR-2480
+    branches: HEAD
 asciidoc:
   attributes:
     experimental: ''
